@@ -59,10 +59,6 @@ Skills: HTML / CSS / JS / Bootstrap/ PHP / MySQL / WordPress
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=MajedHasan&show_icons=true&theme=radical)
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MajedHasan&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MajedHasan&show_icons=true&count_private=true&theme=radical)
-
 
 
 
