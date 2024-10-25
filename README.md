@@ -66,12 +66,25 @@ I love to connect with like-minded professionals and collaborate on exciting pro
 ---
 
 ### 📊 GitHub Stats
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MajedHasan&theme=darkhub)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MajedHasan&show_icons=true&count_private=true&theme=radical)  
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MajedHasan&theme=radical)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MajedHasan&theme=juicyfresh&no-frame=true&row=1&column=4)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MajedHasan&show_icons=true&count_private=true&theme=gruvbox)  
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MajedHasan&theme=gruvbox)  
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MajedHasan)  
-![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=MajedHasan&theme=radical)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MajedHasan&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MajedHasan&layout=compact&theme=gruvbox)  
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MajedHasan&theme=gruvbox)  
+![Commits per Month](https://github-readme-stats.vercel.app/api/wakatime?username=MajedHasan&theme=gruvbox)
+
+---
+
+### 🚀 Additional Insights
+- **GitHub Contributions**:  
+   Track my daily contributions and see how I’m continuously improving my coding skills.
+
+- **Favorite Projects**:  
+   Check out my repositories to see projects I’m proud of. Whether it’s a personal project or a collaborative effort, each one showcases my capabilities and learning.
+
+- **Tech Blogging**:  
+   I enjoy sharing my insights and experiences in web development. Stay tuned for my blog posts where I dive deep into tech trends, tutorials, and best practices.
 
 ---
 
@@ -79,4 +92,3 @@ I love to connect with like-minded professionals and collaborate on exciting pro
 If you're looking for a dedicated developer who can help bring your digital ideas to life, I’m just a message away! Let’s create something amazing together.
 
 ---
-
