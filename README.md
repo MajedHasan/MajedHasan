@@ -6,23 +6,45 @@
 ---
 
 ### 🌟 About Me
-I am a dedicated **full-stack web developer** with over **5 years of experience** in designing, developing, and deploying dynamic websites and applications. I have collaborated with various individuals and businesses, delivering tailored solutions to meet their unique needs.
+I am a passionate and detail-oriented **full-stack web developer** with over **5 years of experience** in creating dynamic and user-friendly websites and applications. My journey began in 2019, and since then, I have honed my skills by working on various projects for clients across different sectors. I am dedicated to delivering high-quality solutions that not only meet the needs of clients but also enhance user experiences.
 
-### 🛠️ Skills
-- **Front-End Development**: HTML, CSS, JavaScript, Bootstrap
-- **Back-End Development**: PHP, MySQL, WordPress
-- **Frameworks & Libraries**: React, Node.js (currently learning)
-- **Version Control**: Git & GitHub
+### 🛠️ Technical Skills
+| **Category**            | **Technologies**                                     |
+|-------------------------|------------------------------------------------------|
+| **Front-End Development** | HTML, CSS, JavaScript, Bootstrap, React          |
+| **Back-End Development**  | PHP, MySQL, Node.js, Express                     |
+| **Content Management**    | WordPress, Shopify                                 |
+| **Tools & Version Control** | Git, GitHub, Visual Studio Code, Postman        |
+| **Design**               | Adobe Photoshop, Figma                              |
 
 ---
 
-### 💼 What I Do
-- 🔭 **Freelancing**: Offering services on **Fiverr** and **Upwork**.
-- 🌱 **Currently Learning**: Advancing my skills in **Full-Stack PHP** and **JavaScript frameworks**.
-- 🤔 **Open to Collaboration**: Looking for opportunities to assist startups and new projects.
-- 💬 **Ask Me About**: Anything related to web development or digital solutions!
+### 💼 Professional Experience
+#### Freelance Web Developer
+*2019 - Present*
 
-### 📫 Contact Me
+- Successfully delivered over **50+ projects** on platforms like **Fiverr** and **Upwork**, achieving a **95%+ client satisfaction rate**.
+- Collaborated with clients to design responsive websites, ensuring they are optimized for both desktop and mobile devices.
+- Developed custom plugins and themes for **WordPress**, enhancing functionality and improving user engagement.
+
+#### Recent Projects
+- **E-commerce Website**: Built a fully functional e-commerce site using WooCommerce and customized themes to increase sales by 30%.
+- **Portfolio Site**: Created a personal portfolio site to showcase my projects and skills, leading to an increase in freelance inquiries.
+- **Business Website**: Developed a professional website for a local business, helping them to establish an online presence and attract new customers.
+
+---
+
+### 🌱 Learning Journey
+Currently, I am focusing on enhancing my knowledge in:
+- **Full-Stack PHP Development**: Deepening my understanding of server-side programming and databases.
+- **JavaScript Frameworks**: Exploring React and Node.js to create more dynamic and efficient applications.
+- **UI/UX Design Principles**: Learning design principles to improve user interface and experience.
+
+---
+
+### 💬 Get in Touch
+I love to connect with like-minded professionals and collaborate on exciting projects. Don’t hesitate to reach out!
+
 - **Email**: [mdmajedhasan599@gmail.com](mailto:mdmajedhasan599@gmail.com)  
 - **Phone**: (+880) 1734549831
 
@@ -44,15 +66,17 @@ I am a dedicated **full-stack web developer** with over **5 years of experience*
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MajedHasan&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MajedHasan&theme=darkhub)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MajedHasan&show_icons=true&count_private=true&theme=radical)  
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MajedHasan&theme=radical)  
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MajedHasan)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MajedHasan)  
+![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=MajedHasan&theme=radical)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MajedHasan&layout=compact&theme=radical)
 
 ---
 
 ### 🤝 Let's Collaborate!
-If you're looking for a dedicated developer to help bring your digital ideas to life, I’m just a message away. Let’s create something amazing together!
+If you're looking for a dedicated developer who can help bring your digital ideas to life, I’m just a message away! Let’s create something amazing together.
 
 ---
 
