@@ -32,22 +32,6 @@ Skills: HTML / CSS / JS / Bootstrap/ PHP / MySQL / WordPress
 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/MajedHasan)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/MajedHasan&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/MajedHasan)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/MajedHasan)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/MajedHasan)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/MajedHasan)  
-
-
-
-# updated one
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MajedHasan)](https://github.com/ryo-ma/github-profile-trophy)
 
