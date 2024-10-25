@@ -1,5 +1,3 @@
-![Full-Stack web developer]([https://media-exp1.licdn.com/dms/image/C5616AQFVJmw8ptE6lw/profile-displaybackgroundimage-shrink_200_800/0/1638195216605?e=1643846400&v=beta&t=h_FB3lRldcm-JD-IWuoc120fQ4PtAN9Wp2cVCHq2y6Q](https://media.licdn.com/dms/image/v2/C5616AQFVJmw8ptE6lw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1638195217988?e=1735171200&v=beta&t=WclnITstoPI4VKKmRaBclIwNbwvGRwGQko9_6iMROxM))
-
 ![Full-Stack web developer](https://media.licdn.com/dms/image/v2/C5616AQFVJmw8ptE6lw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1638195217988?e=1735171200&v=beta&t=WclnITstoPI4VKKmRaBclIwNbwvGRwGQko9_6iMROxM)
 
 
@@ -46,7 +44,17 @@ Skills: HTML / CSS / JS / Bootstrap/ PHP / MySQL / WordPress
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/MajedHasan)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MajedHasan&show_icons=true&count_private=true)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MajedHasan)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MajedHasan)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=MajedHasan)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MajedHasan&show_icons=true&count_private=true)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MajedHasan)
+
+![GitHub metrics](https://metrics.lecoq.io/MajedHasan)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MajedHasan)
+
 ![Profile views](https://gpvc.arturio.dev/MajedHasan)
+
