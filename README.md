@@ -48,6 +48,8 @@ Skills: HTML / CSS / JS / Bootstrap/ PHP / MySQL / WordPress
 
 
 
+# updated one
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MajedHasan&show_icons=true&count_private=true)
 
