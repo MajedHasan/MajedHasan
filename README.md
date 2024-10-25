@@ -1,21 +1,21 @@
 ![Full-Stack Web Developer](https://media.licdn.com/dms/image/v2/C5616AQFVJmw8ptE6lw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1638195217988?e=1735171200&v=beta&t=WclnITstoPI4VKKmRaBclIwNbwvGRwGQko9_6iMROxM)
 
 # 👋 Hello! I'm Mehedi Hasan Majed
-### Full-Stack Web Developer | Freelancer
+### Full-Stack Web Developer | Freelancer | Tech Enthusiast
 
 ---
 
 ### 🌟 About Me
-I am a passionate and detail-oriented **full-stack web developer** with over **5 years of experience** in creating dynamic and user-friendly websites and applications. My journey began in 2019, and since then, I have honed my skills by working on various projects for clients across different sectors. I am dedicated to delivering high-quality solutions that not only meet the needs of clients but also enhance user experiences.
+I am a dedicated **full-stack web developer** with over **5 years of experience** in building robust and scalable web applications. My passion for technology drives me to continuously learn and adapt to new tools and frameworks. I have a proven track record of delivering projects on time while exceeding client expectations.
 
 ### 🛠️ Technical Skills
-| **Category**            | **Technologies**                                     |
-|-------------------------|------------------------------------------------------|
-| **Front-End Development** | HTML, CSS, JavaScript, Bootstrap, React          |
-| **Back-End Development**  | PHP, MySQL, Node.js, Express                     |
-| **Content Management**    | WordPress, Shopify                                 |
-| **Tools & Version Control** | Git, GitHub, Visual Studio Code, Postman        |
-| **Design**               | Adobe Photoshop, Figma                              |
+| **Category**                | **Technologies**                                     |
+|-----------------------------|------------------------------------------------------|
+| **Front-End Development**   | HTML, CSS, JavaScript, Bootstrap, React              |
+| **Back-End Development**    | PHP, MySQL, Node.js, Express                         |
+| **CMS & E-commerce**        | WordPress, Shopify, WooCommerce                      |
+| **DevOps & Hosting**        | AWS, Heroku, Netlify                                 |
+| **Design**                 | Adobe Photoshop, Figma, UI/UX Design Principles      |
 
 ---
 
@@ -23,22 +23,22 @@ I am a passionate and detail-oriented **full-stack web developer** with over **5
 #### Freelance Web Developer
 *2019 - Present*
 
-- Successfully delivered over **50+ projects** on platforms like **Fiverr** and **Upwork**, achieving a **95%+ client satisfaction rate**.
-- Collaborated with clients to design responsive websites, ensuring they are optimized for both desktop and mobile devices.
-- Developed custom plugins and themes for **WordPress**, enhancing functionality and improving user engagement.
+- Successfully completed **50+ projects** on **Fiverr** and **Upwork**, achieving a **95%+ client satisfaction rate**.
+- Developed responsive websites that adapt seamlessly across devices, ensuring optimal user experiences.
+- Created custom plugins and themes for **WordPress** to enhance functionality and improve user engagement.
 
-#### Recent Projects
-- **E-commerce Website**: Built a fully functional e-commerce site using WooCommerce and customized themes to increase sales by 30%.
-- **Portfolio Site**: Created a personal portfolio site to showcase my projects and skills, leading to an increase in freelance inquiries.
-- **Business Website**: Developed a professional website for a local business, helping them to establish an online presence and attract new customers.
+#### Notable Projects
+- **E-commerce Platform**: Developed a fully functional e-commerce site using WooCommerce, achieving a **30% increase** in sales for the client.
+- **Portfolio Website**: Crafted a personal portfolio site that highlights my projects and skills, leading to increased freelance inquiries.
+- **Business Website**: Designed a professional website for a local business, establishing their online presence and attracting new customers.
 
 ---
 
 ### 🌱 Learning Journey
-Currently, I am focusing on enhancing my knowledge in:
-- **Full-Stack PHP Development**: Deepening my understanding of server-side programming and databases.
-- **JavaScript Frameworks**: Exploring React and Node.js to create more dynamic and efficient applications.
-- **UI/UX Design Principles**: Learning design principles to improve user interface and experience.
+Currently focused on enhancing my skills in:
+- **Full-Stack PHP Development**: Diving deeper into server-side programming, frameworks, and database management.
+- **JavaScript Frameworks**: Learning React and Node.js for building modern, efficient web applications.
+- **UI/UX Design**: Understanding design principles to create visually appealing and user-friendly interfaces.
 
 ---
 
@@ -51,11 +51,13 @@ I love to connect with like-minded professionals and collaborate on exciting pro
 ---
 
 ### 🌐 Connect with Me
-<a href="https://github.com/MajedHasan"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="25" /></a>
-<a href="https://www.linkedin.com/in/majed-hasan/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="25" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009441082336"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" width="25" /></a>
-<a href="https://www.instagram.com/mdmajedhasan599/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" width="25" /></a>
-<a href="https://twitter.com/MDMajedHasan1"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="25" /></a>
+<p align="left">
+  <a href="https://github.com/MajedHasan"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="30" /></a>
+  <a href="https://www.linkedin.com/in/majed-hasan/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="30" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100009441082336"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" width="30" /></a>
+  <a href="https://www.instagram.com/mdmajedhasan599/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" width="30" /></a>
+  <a href="https://twitter.com/MDMajedHasan1"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="30" /></a>
+</p>
 
 ---
 
@@ -66,27 +68,17 @@ I love to connect with like-minded professionals and collaborate on exciting pro
 ---
 
 ### 📊 GitHub Stats
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MajedHasan&theme=juicyfresh&no-frame=true&row=1&column=4)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MajedHasan&show_icons=true&count_private=true&theme=gruvbox)  
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MajedHasan&theme=gruvbox)  
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MajedHasan)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MajedHasan&layout=compact&theme=gruvbox)  
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MajedHasan&theme=gruvbox)  
-![Commits per Month](https://github-readme-stats.vercel.app/api/wakatime?username=MajedHasan&theme=gruvbox)
+| ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MajedHasan&theme=juicyfresh&no-frame=true&row=1&column=4) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MajedHasan&show_icons=true&count_private=true&theme=default) |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MajedHasan&layout=compact&theme=default) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MajedHasan&theme=default) |
+| ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MajedHasan) | ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MajedHasan&theme=default) |
+| ![Commits per Month](https://github-readme-stats.vercel.app/api/wakatime?username=MajedHasan&theme=default) |
 
 ---
 
 ### 🚀 Additional Insights
-- **GitHub Contributions**:  
-   Track my daily contributions and see how I’m continuously improving my coding skills.
-
-- **Favorite Projects**:  
-   Check out my repositories to see projects I’m proud of. Whether it’s a personal project or a collaborative effort, each one showcases my capabilities and learning.
-
-- **Tech Blogging**:  
-   I enjoy sharing my insights and experiences in web development. Stay tuned for my blog posts where I dive deep into tech trends, tutorials, and best practices.
-
----
+- **Blogging**: I enjoy sharing my insights on web development trends and best practices through tech blogs. Keep an eye out for my posts!
+- **Open Source Contributions**: I believe in giving back to the community. I regularly contribute to open-source projects and encourage collaboration.
 
 ### 🤝 Let's Collaborate!
 If you're looking for a dedicated developer who can help bring your digital ideas to life, I’m just a message away! Let’s create something amazing together.
