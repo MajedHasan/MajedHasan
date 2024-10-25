@@ -44,12 +44,12 @@ Skills: HTML / CSS / JS / Bootstrap/ PHP / MySQL / WordPress
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/MajedHasan)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MajedHasan)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 # updated one
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MajedHasan)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MajedHasan&show_icons=true&count_private=true)
 
